@@ -11,7 +11,7 @@ export const Footer=()=>{
         -----
     </div>
     <div className="text-black-300 underline">
-        <a href="">Get the source code</a>
+        <a href="https://github.com/sirikancharla12/Dukaan-App">Get the source code</a>
     </div>
 </div>
 
